@@ -5,7 +5,7 @@ class FiltroIngredientes extends React.Component {
     super();
     this.state = { ingredientes: [] };
   }
-
+//Realizar validación para que no se agregue una cadena vacía a la lista de ingredientes
   botonAgregar() {
     let a = document.getElementById("ingredientes");
     console.log(a.value);
@@ -15,6 +15,7 @@ class FiltroIngredientes extends React.Component {
     this.setState({ ingredientes: nueva });
   }
 
+// Permitir que se pueda elegir el ingrediente a borrar, puede que el usuario quiera borrar un elemento diferente al último agregado
   botonBorrar() {
     let nueva = this.state.ingredientes;
     nueva.pop();
