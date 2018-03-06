@@ -1,10 +1,3 @@
-# RecetaspaTodos
-
-Este proyecto esta creado para todas las personas que desean probar nuevo tipo de comida y para quienes no pueden tomar una decision.
-
-
-
-
 # RecetasPaTodos
 ## Descripcion
 Este proyecto esta creado para todas las personas que desean probar nuevo tipo de comida y para quienes no pueden tomar una decision.
@@ -30,7 +23,7 @@ luego en la carpeta raiz
 
 ## Authors
 * [__Juan Sebastian__](https://github.com/jsprieto10)
-* [__Cristian Camilo Novoa](https://github.com/ccnovoa11)
+* [__Cristian Camilo Novoa__](https://github.com/ccnovoa11)
 
 
 ## Licensia
@@ -38,4 +31,3 @@ luego en la carpeta raiz
 
 This repository has the standard MIT license. You can find it [here.](https://github.com/jsprieto10/recetaspatodos/blob/master/LICENSE)
 
-[![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
