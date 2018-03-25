@@ -22,6 +22,7 @@ class ListaRecetas extends React.Component {
     this.setState({ open: false });
   };
 
+// Cuando se realiza una búsqueda que no tiene resultados se muestra animación de carga y no mensaje de "no se ha encontrado"
   render() {
     const { open } = this.state;
     let a = this.props.recetas;
